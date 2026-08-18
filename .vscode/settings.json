@@ -26,8 +26,8 @@
 
   "[html]": {
     // HTML 코드를 예쁘게 정리해 줄 기본 프로그램을 Prettier로 지정합니다.
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    // HTML 파일을 저장할 때마다 자동으로 코드를 보기 좋게 정렬합니다.
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+    // HTML 파일을 저장할 때마다 자동으로 코드를 보기 좋게 정렬합니다.0
     "editor.formatOnSave": true,
     // HTML 파일에서 키보드 Tab 키를 누를 때, 스페이스바 2칸 간격으로 들여쓰기를 맞춥니다.
     "editor.tabSize": 2
